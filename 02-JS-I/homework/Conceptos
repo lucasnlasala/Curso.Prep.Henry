@@ -1,0 +1,29 @@
+Conceptos
+
+//VARIABLES
+
+Es una forma de almacenar un valor que se puede recuperar en cualquier momento. Tambien es un lenguaje de tipado dinamico lo que implica que se la inteprete en el momento que se la ejecuta.
+Existen 3 formas de declarar un valor dentro de estas variables: VAR-LET-CONST
+
+//STRING
+
+Es un tipo de dato que se almacena entre comillas "". Es decir, una secuencia ordenada de elementos que pertenecen a cierto lenguje.
+Por ejemplo "esto es un STRING"
+
+//FUNCIONES (ARGUMENTOS,RETURN)
+
+Su funcion es agrupar código que despues será ejecutado muchas veces.
+Para su ejecución la palabra clave es FUCNTION y esto le indica al interprete que el código que le sigue es un conjunto de instrucciones.
+
+Para estructurarlo hay que tener en cuenta: 1 el tipo de funcion que cumple, 2 el nombre de la funcion 3 un grugo de paréntesis dónde se invoca la función y 4 un grupo de corchetes donde se ejecutara todo el código que escribamos. 
+
+También cuenta con una operación llamada RETURN que permite brindar parámetros para ejecutar la funcion. Es decir, todo el código que se encuentra dentro de estos parámetros solo será accesible dentro de la misma y no se reproducira fuera de ella.
+
+//DECLARACIONES IF
+
+Es una operación que le permite agregar un tipo de lógica al código. Es decir una forma condicionada de dar una respuesta, "si se dan éstas condiciones se dará el siguiente resultado".
+
+//VALORES BOOLEANOS
+
+Este concepto está intimamente ligado a las operaciones de compación como las declaraciones if. Estas condiciones son expresiones que se convierten en verdadero o falso. Esencialmente significa que tiene dos opciones, activar o desactivar, 0 o 1, verdadero o falso.
+En este caso el código será ejecutado si la condición es verdadera.
